@@ -1,10 +1,11 @@
 # Setup
 title: Dear Traitor
-tagline: We hate you
+tagline:
 url: https://dannysleaving.us
 paginate: 1
 baseurl: ""
 permalink: pretty
+repository: P-Brower/goodbye
 
 # Gems
 
@@ -25,14 +26,10 @@ sass:
 
 # Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
 author:
-  name: Ops Tech
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: The Peanut Gallery
 
 # Custom vars
 version: 3.0.0

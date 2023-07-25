@@ -7,10 +7,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.25;
   color: var(--heading-color);
+  font-family: Sacramento;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 h2 {
@@ -31,6 +32,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: Poppins;
 }
 
 ul, ol, dl {
