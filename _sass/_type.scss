@@ -2,6 +2,13 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
+@font-face {
+  font-family: "Sacramento";
+  src: url("/assets/fonts/Sacramento-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
@@ -115,3 +122,5 @@ a[href^="#fnref:"] {
   font-size: 1.25rem;
   font-weight: 300;
 }
+
+
