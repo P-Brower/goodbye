@@ -1,14 +1,11 @@
 # Setup
-title: Dear Traitor
-tagline:
-url: https://dannysleaving.us
+title: "Dear Traitor,"
+tagline: Enjoy Your Haggis
+url: https://www.dannysleaving.us
 paginate: 1
 baseurl: ""
 permalink: pretty
 repository: P-Brower/goodbye
-
-# Gems
-
 
 # Optimize Jekyll
 exclude:
@@ -29,7 +26,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: The Peanut Gallery
+  name: The Peanut Gallery 🥜
+description: Goodbye's are hard
+banner: https://dannysleaving.us/assets/enjoy.jpg
 
 # Custom vars
 version: 3.0.0
