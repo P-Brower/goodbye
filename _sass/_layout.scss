@@ -29,3 +29,7 @@ footer {
   padding: var(--spacer);
   margin-bottom: var(--spacer);
 }
+
+@media only screen and (max-width: 600px) {
+  .note{max-width: 95%;}
+}
