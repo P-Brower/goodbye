@@ -6,6 +6,7 @@ _site
 .jekyll-cache
 .editorconfig
 .github
+.gemspec
 
 # Numerous always-ignore extensions
 *.diff
