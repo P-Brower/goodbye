@@ -23,8 +23,9 @@ footer {
 }
 .note {
   max-width: 44%;
-  border: 2px solid -var(--grey-700);
+  border: 2px solid -var(--grey-900);
   border-radius: 10px;
   box-shadow: 2px 2px 1px var(--mast-shadow);
   padding: var(--spacer);
+  margin-bottom: var(--spacer);
 }
